@@ -3,7 +3,7 @@ class magic:
         self.l = []
 
     def input(self):
-        no = int(input("enter number of ds"))
+        no = int(input("enter length of ds"))
         if not no:
             print("invalid input")
         else:
