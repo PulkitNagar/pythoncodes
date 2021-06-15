@@ -11,7 +11,16 @@ while True:
             str=input("entr a string")
             print(len(str))
         elif(choice==3):
-            pass
+            str=input("entr a string")
+            print(str.lower())
+        elif(choice==9):
+            str=input("entr a string")
+            a=input("charater to be searched")
+            if(a in str):
+                print("present")
+            else:
+                print("not present")
+            
     elif(choice==2):
         pass
     elif(choice==0):
