@@ -41,5 +41,6 @@ while True:
         if flag == 0:
             print("no record found")
     elif ch == 0:
-        break
+        
         print("thank you for using employee mangement system")
+        break

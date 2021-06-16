@@ -28,19 +28,4 @@ while True:
             elif choice==5:
                 print(list(s))
             elif choice==6:
-
-                
-
-                    
-                
-                
-            
-
-
-
-                    
-
-
-        
-
-    break
+                break
